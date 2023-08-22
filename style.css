@@ -1,0 +1,25 @@
+body {
+	background-color: rgb(0, 0, 0);
+    color: silver;
+    font-family: Arial, sans-serif;/
+}
+
+#banner {
+	width: 98%;
+}
+
+h1 {
+	text-align: center;	
+}
+
+p {
+	text-align: center;	
+}
+
+#missao {
+	font-size: 18px
+}
+
+em strong {
+	color: #8f1e89;
+}
